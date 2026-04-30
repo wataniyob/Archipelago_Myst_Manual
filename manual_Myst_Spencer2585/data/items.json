@@ -1,25 +1,9 @@
 [ 
     { 
-        "name": "Clock Tower Bridge", 
-        "category": [
-            "Myst"
-        ],
-        "progression": true 
-    },
-    
-    { 
-        "name": "Spaceship Door", 
-        "category": [
-            "Door",
-            "Myst"
-        ],
-        "progression": true 
-    },
-
-    { 
         "name": "Myst Red Page", 
         "category": [
             "Page",
+            "Red Page",
             "Myst"
         ],
         "progression": true 
@@ -29,6 +13,7 @@
         "name": "Myst Blue Page", 
         "category": [
             "Page",
+            "Blue Page",
             "Myst"
         ],
         "progression": true 
@@ -38,6 +23,24 @@
         "name": "White Page", 
         "category": [
             "Page",
+            "Myst"
+        ],
+        "progression": true 
+    },
+    
+    { 
+        "name": "Marker", 
+        "category": [
+            "Filler",
+            "Myst"
+        ],
+        "filler": true 
+    },
+
+    { 
+        "name": "Clock Tower Bridge", 
+        "category": [
+            "Door",
             "Myst"
         ],
         "progression": true 
@@ -60,47 +63,20 @@
         ],
         "progression": true
     },
-
-    { 
-        "name": "Elevator", 
-        "category": [
+    
+    {
+        "name":"Shed Door",
+        "category":[
             "Door",
             "Myst"
         ],
-        "progression": true 
+        "progression": true
     },
 
     { 
-        "name": "Mechanical Age Book", 
+        "name": "Library Elevator", 
         "category": [
-            "Book",
-            "Myst"
-        ],
-        "progression": true 
-    },
-
-    { 
-        "name": "Selenitic Age Book", 
-        "category": [
-            "Book",
-            "Myst"
-        ],
-        "progression": true 
-    },
-
-    { 
-        "name": "Stoneship Age Book", 
-        "category": [
-            "Book",
-            "Myst"
-        ],
-        "progression": true 
-    },
-
-    { 
-        "name": "Channelwood Age Book", 
-        "category": [
-            "Book",
+            "Door",
             "Myst"
         ],
         "progression": true 
@@ -110,6 +86,7 @@
         "name": "Channelwood Red Page", 
         "category": [
             "Page",
+            "Red Page",
             "Channelwood"
         ],
         "progression": true 
@@ -119,6 +96,7 @@
         "name": "Channelwood Blue Page", 
         "category": [
             "Page",
+            "Blue Page",
             "Channelwood"
         ],
         "progression": true 
@@ -128,6 +106,7 @@
         "name": "Selenitic Red Page", 
         "category": [
             "Page",
+            "Red Page",
             "Selenitic"
         ],
         "progression": true 
@@ -137,15 +116,7 @@
         "name": "Selenitic Blue Page", 
         "category": [
             "Page",
-            "Selenitic"
-        ],
-        "progression": true 
-    },
-
-    { 
-        "name": "Selenitic Train Door", 
-        "category": [
-            "Door",
+            "Blue Page",
             "Selenitic"
         ],
         "progression": true 
@@ -155,6 +126,7 @@
         "name": "Mechanical Red Page", 
         "category": [
             "Page",
+            "Red Page",
             "Mechanical"
         ],
         "progression": true 
@@ -164,15 +136,7 @@
         "name": "Mechanical Blue Page", 
         "category": [
             "Page",
-            "Mechanical"
-        ],
-        "progression": true 
-    },
-
-    { 
-        "name": "Mechanical Book Door", 
-        "category": [
-            "Door",
+            "Blue Page",
             "Mechanical"
         ],
         "progression": true 
@@ -182,6 +146,7 @@
         "name": "Stoneship Red Page", 
         "category": [
             "Page",
+            "Red Page",
             "Stoneship"
         ],
         "progression": true 
@@ -191,15 +156,7 @@
         "name": "Stoneship Blue Page", 
         "category": [
             "Page",
-            "Stoneship"
-        ],
-        "progression": true 
-    },
-
-    { 
-        "name": "Stoneship Book Door", 
-        "category": [
-            "Door",
+            "Blue Page",
             "Stoneship"
         ],
         "progression": true 
