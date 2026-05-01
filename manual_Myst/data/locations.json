@@ -52,7 +52,7 @@
         "name":"Clock Tower Bridge Puzzle",
         "region":"Myst",
         "category": ["Myst","Puzzle"],
-        "requires":"|Library Elevator|"
+        "requires":"|Library Elevator| AND |Clock Tower Bridge|"
     },
 
     {
