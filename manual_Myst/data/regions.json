@@ -26,6 +26,6 @@
     
     "D'ni Age": {
         "connects_to": [],
-        "requires": "(|@Red Page:100%| OR |@Blue Page:100%|) AND |@AgeCompletion:100%| AND |White Page|"
+        "requires": "(|@Red Page:100%| OR |@Blue Page:100%|) AND |@AgeCompletion:100%| AND |White Page| AND |Clock Tower Bridge|"
     }
 }
