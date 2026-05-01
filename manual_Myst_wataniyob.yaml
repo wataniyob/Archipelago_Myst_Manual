@@ -28,13 +28,13 @@
 name: {player}{number}
 
 # Used to describe your yaml. Useful if you have multiple files.
-description: Default Manual_Myst_Spencer2585 Template
+description: Default Manual_Myst_wataniyob Template
 
-game: Manual_Myst_Spencer2585
+game: Manual_Myst_wataniyob
 requires:
-  version: 0.4.4 # Version of Archipelago required for this yaml to work as expected.
+  version: 0.6.7 # Version of Archipelago required for this yaml to work as expected.
 
-Manual_Myst_Spencer2585:
+Manual_Myst_wataniyob:
   progression_balancing:
     # A system that can move progression earlier, to try and prevent the player from getting stuck and bored early.
     # A lower setting means more getting stuck. A higher setting means less getting stuck.
